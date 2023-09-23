@@ -12,7 +12,7 @@ RADAR_RANGE = 1  # A distância onde o radar pega
 
 vel_carro_pass_radar_1 = velocidade > RADAR_1
 carro_passou_radar_1 = local_carro >= (LOCAL_1 - RADAR_RANGE) and \
-    local_carro <= (LOCAL_1 + RADAR_RANGE)
+    local_carro <= (LOCAL_1 + RADAR_RANGE) # \ Continuidade do código na linha seguinte/quebra de linha
 carro_multado_radar_1 = carro_passou_radar_1 and vel_carro_pass_radar_1
 
 if vel_carro_pass_radar_1:
