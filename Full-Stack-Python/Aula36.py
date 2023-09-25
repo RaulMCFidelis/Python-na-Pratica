@@ -1,6 +1,6 @@
 """
 Operadores de atribuição
-= += -= *= /= //= **= %=
+= += (soma ou concatenação) -= (subtração) *= (multiplicação) /= (divisão) //= (divisão inteira) **= (potenciação) %= (modulo)
 """
 contador = 10
 
