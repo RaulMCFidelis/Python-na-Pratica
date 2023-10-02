@@ -2,15 +2,14 @@
 Iterando strings com while
 """
 #       012345678910
-nome = 'Raul Maximiliano'  # Iteráveis
+#nome = 'Raul Maximiliano'  # Iteráveis
 #      1110987654321
-tamanho_nome = len(nome)
-print(nome)
-print(tamanho_nome)
-print(nome[3])
+#tamanho_nome = len(nome)
+#print(tamanho_nome)
+#print(nome[3])
 
-nova_string = ''
-nova_string += '*R*a*u*l* *M*a*x*i*m*i*l*i*a*n*o*'
+#nova_string = ''
+#nova_string += '*R*a*u*l* *M*a*x*i*m*i*l*i*a*n*o*'
 
 nome = 'Maria Helena'  # Iteráveis
 
