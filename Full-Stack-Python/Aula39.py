@@ -2,7 +2,7 @@
 Iterando strings com while
 """
 #       012345678910
-nome = 'Luiz Otávio'  # Iteráveis
+nome = 'Raul Maximiliano'  # Iteráveis
 #      1110987654321
 tamanho_nome = len(nome)
 print(nome)
@@ -10,7 +10,7 @@ print(tamanho_nome)
 print(nome[3])
 
 nova_string = ''
-nova_string += '*L*u*i*z* *O*t*á*v*i*o'
+nova_string += '*R*a*u*l* *M*a*x*i*m*i*l*i*a*n*o*'
 
 nome = 'Maria Helena'  # Iteráveis
 
